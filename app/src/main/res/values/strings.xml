@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExchangeHelper</string>
+    <string name="action_settings">Settings</string>
+    <string name="exchange">exchange</string>
+    <string name="amount">amount</string>
+    <string name="enter">enter</string>
+    <string name="result">result</string>
+</resources>
